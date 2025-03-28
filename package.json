@@ -1,18 +1,15 @@
 {
-    "homepage": "rwniklas.github.io/migarden",
-    "name": "migarden",
-    "lockfileVersion": 3,
-    "requires": true,
-    "scripts": {
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d build"
-        
-    }
-
-
-
-
-
+  "name": "migarden",
+  "version": "1.0.0",
+  "main": "vite.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
- 
-  
