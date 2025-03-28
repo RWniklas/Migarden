@@ -1,0 +1,18 @@
+{
+    "homepage": "rwniklas.github.io/migarden",
+    "name": "migarden",
+    "lockfileVersion": 3,
+    "requires": true,
+    "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build"
+        
+    }
+
+
+
+
+
+}
+ 
+  
