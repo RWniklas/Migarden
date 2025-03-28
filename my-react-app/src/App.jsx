@@ -3,13 +3,19 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 import React from 'react';
+import header './components/header.jsx';
 
 function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <h1 class="d-flex">test</h1>    
-  )
-}
+    <div>
+      <h1>Counter: {count}</h1>
+      <header label="Increment" onClick={handleClick} />
+    </div>
+  );
+};
+
+
 
 export default App
