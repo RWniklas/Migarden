@@ -5,7 +5,7 @@
   "description": "My React project deployed with GitHub Pages",
   "author": "Your Name",
   "license": "MIT",
-  "homepage": "https://your-username.github.io/migarden",
+  "homepage": "https://rwniklas.github.io/migarden",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
