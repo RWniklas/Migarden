@@ -18,7 +18,7 @@ export default function Header({ label, onClick }) {
                
                 <div class="col-md-3 col-12 text-md-end text-center">
                     <a href="#intro" class="navbar-brand d-block mx-auto">
-                        {/* <img src="images/logo.png" alt="logo" class="logo" style="max-width: 100%; height: auto;"> */}
+                       {/* <img src="" alt="logo" class="logo" style="max-width: 100%; height: auto;"></img> */}
                     </a>
                     <p class="d-none d-md-block">the green place in a gray space</p>
                 </div>
